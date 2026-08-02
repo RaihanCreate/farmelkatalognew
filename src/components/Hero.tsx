@@ -34,7 +34,7 @@ export function Hero() {
           </div>
         </div>
 
-        <a href="/" className="back-btn">
+        <a href="https://farmel.vercel.app" className="back-btn">
           <ArrowLeftIcon />
           Kembali ke Beranda
         </a>
