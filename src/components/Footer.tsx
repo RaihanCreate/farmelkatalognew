@@ -49,7 +49,7 @@ export function Footer() {
               </li>
               <li style={{ display: "flex", alignItems: "flex-start", gap: "10px" }}>
                 <MapPinIcon className="footer-contact-icon" style={{ marginTop: "4px" }} />
-                <span>Jl. Raya Bendungan Jago No. 20 E Kemayoran - Jakarta Pusat</span>
+                <span> MGK Kemayoran F-15 - Jakarta Pusat</span>
               </li>
             </ul>
           </div>
